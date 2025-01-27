@@ -1,6 +1,6 @@
 # Decentralized Autonomous Organization (DAO) Web Application
 
-This project is a decentralized application (DApp) that allows users to interact with a Decentralized Autonomous Organization (DAO) on the Ethereum blockchain. Users can create proposals, vote on them, and view proposal details, all within a secure and transparent environment. The DApp is built with HTML, JavaScript, and Web3.js and communicates with an Ethereum smart contract deployed to a blockchain network.
+This project is a decentralized application (DApp) that allows users to interact with a Decentralized Autonomous Organization (DAO) on the Ethereum blockchain. Users can create proposals, vote on them, and view proposal details, all within a secure and transparent environment. The DApp is built with HTML5, Bootstrap4, JavaScript, and Web3.js and communicates with an Ethereum smart contract deployed to a blockchain network.
 
 ## Table of Contents
 1. Project Overview  
@@ -21,13 +21,14 @@ The DAO Web Application allows users to participate in a DAO by proposing change
 
 - **Create Proposals:** Users can submit new proposals with a description that gets recorded on the blockchain.  
 - **Vote on Proposals:** Users can vote in favor or against a proposal.  
-- **View Proposals:** Users can view details of proposals, including the description, vote counts, status, and proposer information.  
+- **View Proposals:** Users can view details of proposals, including the description, vote counts, status, and proposer information.
+- **View Recent History:** Users can view the history of all closed proposals including the vote outcome.  
 
 ---
 
 ## Technology Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML5, CSS3, Boostrap4, JavaScript  
 - **Blockchain Interface:** Web3.js  
 - **Ethereum Wallet:** MetaMask  
 - **Smart Contract:** Solidity  
